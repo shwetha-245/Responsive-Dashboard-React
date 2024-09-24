@@ -1,0 +1,33 @@
+{
+    "categories": [
+      {
+        "name": "Category 1",
+        "widgets": [
+          { "id": "cspm-1", "name": "Widget 1", "text": "Text for Widget 1" },
+          { "id": "cspm-2", "name": "Widget 2", "text": "Text for Widget 2" },
+          { "id": "cspm-3", "name": "Widget 3", "text": "Text for Widget 3" },
+          { "id": "cspm-4", "name": "Widget 4", "text": "Text for Widget 4" },
+          { "id": "cspm-5", "name": "Widget 5", "text": "Text for Widget 5" }
+        ]
+      },
+      {
+        "name": "Category 2",
+        "widgets": [
+          { "id": "sec-1", "name": "Widget 1", "text": "Text for Widget 1" },
+          { "id": "sec-2", "name": "Widget 2", "text": "Text for Widget 2" },
+          { "id": "sec-3", "name": "Widget 3", "text": "Text for Widget 3" },
+          { "id": "sec-4", "name": "Widget 4", "text": "Text for Widget 4" }
+        ]
+      },
+      {
+        "name": "Category 3",
+        "widgets": [
+          { "id": "reg-1", "name": "Widget 1", "text": "Text for Widget 1" },
+          { "id": "reg-2", "name": "Widget 2", "text": "Text for Widget 2" },
+          { "id": "reg-3", "name": "Widget 3", "text": "Text for Widget 3" },
+          { "id": "reg-4", "name": "Widget 4", "text": "Text for Widget 4" }
+        ]
+      }
+    ]
+  }
+  
